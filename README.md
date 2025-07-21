@@ -43,5 +43,3 @@ See `requirements.txt` for details.
 
 ## License
 Apache-2.0 license
-
-See
