@@ -42,5 +42,6 @@ A simple project demonstrating sentiment analysis on the IMDB movie reviews data
 See `requirements.txt` for details.
 
 ## License
+Apache-2.0 license
 
 See
